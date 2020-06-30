@@ -1,5 +1,7 @@
 # tugas-erd
 
+Tugas : Membuat ERD dari Aplikasi Web LaraHub
+
 Aplikasi Web LaraHub
 
 Description: 
